@@ -15,8 +15,8 @@
 - 💬 Ask me about: **Legal tech, legal design, AI + Law, civic tech**.  
   🗣️ Pregúntame sobre: **Tecnología legal, diseño legal, IA y derecho, tecnología cívica**.
 
-- 📫 How to reach me: **[tu correo o LinkedIn aquí]**  
-  📬 Cómo contactarme: **[tu correo o LinkedIn aquí]**
+- 📫 How to reach me: **[deniz-perez@hotmail.com]**  
+  📬 Cómo contactarme: **[deniz-perez@hotmail.com]**
 
 - 😄 Pronouns: **he/him | él**  
 - ⚡ Fun fact: I believe that Themis would love open-source.  
