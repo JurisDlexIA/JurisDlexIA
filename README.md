@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JurisDlexIA/JurisDlexIA/main/assets/foto.jpg" width="150" style="border-radius: 50%;" alt="Foto de David">
+  <img src="https://raw.githubusercontent.com/JurisDlexIA/JurisDlexIA/main/assets/foto d000.jpg" width="150" style="border-radius: 50%;" alt="Foto de David">
 </p>
 
 # 👨‍⚖️ JurisDlexIA
